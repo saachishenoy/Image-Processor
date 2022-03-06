@@ -1,6 +1,5 @@
 """
 DSC 20 Mid-Quarter Project
-Name: Saachi Shenoy and Shrishti Seksaria
 PID:  A16296514 and A16290003
 """
 
